@@ -1,7 +1,8 @@
 // Black Auction: one coherent runtime per worker. No forced takeover or reload.
 // Inventory is checked in. Refresh after runtime changes: npm run pwa:refresh.
+// Production package marker: m6e-update-qualification-1
 // BEGIN RUNTIME INVENTORY
-const REVISION = 'm5c-bf83a120f81e16123595';
+const REVISION = 'm5c-f4ee5da408a908b0fb43';
 const RESOURCES = [
   [
     "./assets/audio/advance.wav",
